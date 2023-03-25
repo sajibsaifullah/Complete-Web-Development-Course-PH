@@ -111,5 +111,7 @@
 #### JavaScript for React: https://github.com/sajibsaifullah/javascript-for-react-conceptual
 
 ## Milestone 8: Simple React
-#### Module-46: 
-#### Module-12:
+#### Module-46: Modern Fron-end core concepts: https://github.com/sajibsaifullah/rest-countries-recap
+#### Module-47: React core concepts, JSX, props, state: https://github.com/sajibsaifullah/reactjs-core-concepts
+#### Module-47: https://github.com/sajibsaifullah/reactjs-core-concepts2
+#### Module-48: Simple react rest countries: https://github.com/sajibsaifullah/react-rest-countries
