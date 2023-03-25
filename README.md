@@ -1,4 +1,4 @@
-# Programmonig-Hero-Complete-Web-Development-Course
+# Complete-Web-Development-Course-PH
 
 ## Milestone 1: HTML, CSS and Github as a beginner
 #### Module-1: Learn and Explore HTML: https://github.com/sajibsaifullah/first-websie
