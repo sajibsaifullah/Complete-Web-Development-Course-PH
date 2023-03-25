@@ -86,16 +86,30 @@
 #### Module-37: Understand Common JS Concepts: https://github.com/sajibsaifullah/common-js-concept
 #### Module-37.5: practice:
 #### Module-38: Assignment-6: https://github.com/sajibsaifullah/AI-universe-hub-assignment-6
-#### Module-12:
-#### Module-12:
-#### Module-12:
-#### Module-12:
-#### Module-12:
-#### Module-12:
-#### Module-12:
-#### Module-12:
-#### Module-12:
-#### Module-12:
-#### Module-12:
-#### Module-12:
+#### Module-38.5: Bonus Api & JS concepts recap: https://github.com/sajibsaifullah/temperature-hot-bonus-module-6
+## Conceptuals:
+#### JavaScript ES6 Methods=: https://github.com/sajibsaifullah/conceptual-es6
+#### Explore ES6 & API Project: https://github.com/sajibsaifullah/explore-api-and-apply-es6-conceptual
+#### Fetch & display data: https://github.com/ShahbajKhan/news-portal
+
+## Milestone 7: Explore Browser & Debug
+#### Module-39: More about JavaScript: https://github.com/sajibsaifullah/more-js-concept
+#### Module-40: Common Error types in JS: https://github.com/sajibsaifullah/js-error-debugging
+#### Module-41: Few more JS debug: https://github.com/sajibsaifullah/js-error-debug-practice
+#### Module-42: Everything about browser: https://github.com/sajibsaifullah/interact-with-browser-api
+#### Module-42.5: Browser API practice: https://github.com/sajibsaifullah/browser-api-practice
+#### Module-43: Dev tool & debug practice: https://github.com/sajibsaifullah/js-error-debugging/tree/main/shohor-insta
+#### Module-44: JavaScript You Need To Know for React: https://github.com/sajibsaifullah/js-consepts-for-react
+#### Module-44.5: DevTool & Debug practice: 
+#### Module-45: assignment-7: https://github.com/sajibsaifullah/assignment-7
+#### Module-45.5: Debug bonus: https://github.com/ProgrammingHero1/fancy-slider
+## Conceptuals:
+#### How to debug & fix error; https://github.com/moniruzzaman01/JS-Error-and-Debug
+#### Debug project: https://github.com/probirghosh45/bug-fixing-ph-session
+#### Debug Project: https://github.com/sagar-biswas1/debug-universe
+#### Local Storage: https://github.com/gias-uddin-swe/localstorage-with-bookmark
+#### JavaScript for React: https://github.com/sajibsaifullah/javascript-for-react-conceptual
+
+## Milestone 8: Simple React
+#### Module-46: 
 #### Module-12:
