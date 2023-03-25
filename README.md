@@ -13,4 +13,5 @@
 #### Conquire your git fare: https://github.com/sajibsaifullah/conquire-your-git-fear
 #### digital agency: https://github.com/sajibsaifullah/digital-agency
 
-## Milestone 2: 
+## Milestone 2: Reasponsive Web Layout
+#### 
