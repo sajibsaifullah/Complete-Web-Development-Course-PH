@@ -35,6 +35,9 @@
 #### Module-15.5: Practice: 
 #### Module-16: Assignment-3: https://github.com/sajibsaifullah/legal-house-assignment-3
 #### Module-16.5: Explore SCSS:
+## Conceptuals:
+#### Build a Landing Page Using Bootstrap: https://github.com/complete-web-development-ph/Build-a-Landing-Page-Using-Bootstrap-B7?fbclid=IwAR3n78Rgs_6DUKQkS83Do5RIWr5U8f2yYNWmyMyJUT8ZiiYoo1-rMmqZRGU
+#### Learn Talwind By Building A Project: https://github.com/complete-web-development-ph/Learn-Talwind-By-Building-A-Project
 
 ## Milestone 4: Hello JavaScript
 #### Module-17: Introduction To JavaScript: https://github.com/sajibsaifullah/introduction-to-javascript 
@@ -50,11 +53,49 @@
 #### Module-23.6: Extra JavaScript Practice: https://github.com/sajibsaifullah/js-practice-before-assignment 
 #### Module-24: Assignment-4: https://github.com/sajibsaifullah/assignment-4 
 #### Module-24.5: Basic JS bonus: https://github.com/sajibsaifullah/simple-js-core-concept-bonus 
-#### Module-12: 
-#### Module-12: 
-#### Module-12: 
-#### Module-12: 
-#### Module-12: 
-#### Module-12: 
-#### Module-12: 
+## Conceptuals:
+#### Basic JavaScript Recap: https://github.com/gias-uddin-swe/Basic-JavaScript-Recap
+#### Javascript Function Object and Problem Solving: https://github.com/complete-web-development-ph/Javascript-Function-Object-and-Problem-Solving
+#### Problem solving with JS: https://github.com/ShahbajKhan/batch-7-problem--solving-with-js
+
+## Milestone 5: Integrate JavaScript
+#### Module-25: Tour of DOM: https://github.com/sajibsaifullah/tour-of-dom
+#### Module-26: Event, addEventListener, Event Bubble: https://github.com/sajibsaifullah/js-dom-events
+#### Module-26.5: Practice: 
+#### Module-27: Simple intereactive bank website (baap-er-bank): https://github.com/sajibsaifullah/baap-er-bank
+#### Module-28: Bank Calculation Using Functions: https://github.com/sajibsaifullah/functional-baap-er-bank
+#### Module-28.5: Practice:
+#### Module-29: Shopping Cart: https://github.com/sajibsaifullah/shopping-cart-solution
+#### Module-29: Pin Matcher: https://github.com/sajibsaifullah/pin-matcher-solution
+#### Module-30: Assingment-5: https://github.com/sajibsaifullah/geometry-genius-assignment-5
+#### Module-30.5: Integrate JS Bonus content: https://github.com/sajibsaifullah/dom-recap
+## Conceptuals:
+#### Play with DOM: https://github.com/rokib97/play-with-dom-b7
+#### Understanding DOM: https://github.com/gias-uddin-swe/valentaine-buddget-test
+#### Shopping cart using js DOM: https://github.com/sajibsaifullah/shoping-js-dom-conceptual
+
+## Milestone 6: Intermediate JavaScript, API
+#### Module-31: ES6, Class, Inheritance: https://github.com/sajibsaifullah/es6-inrto-basic
+#### Module-32: 
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
+#### Module-12:
 #### Module-12:
