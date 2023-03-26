@@ -1,7 +1,7 @@
 # Complete-Web-Development-Course-PH
 
 ## Milestone 1: HTML, CSS and Github as a beginner
-#### Module-1: Learn and Explore HTML: https://github.com/sajibsaifullah/first-websie
+#### Module-1: Learn and Explore HTML: https://github.com/sajibsaifullah/first-website-
 #### Module-2: Getting startes with CSS: https://github.com/sajibsaifullah/Basic-css
 #### Module-3: Git, source control, Github:
 #### Module-4: More HTML & More CSS: https://github.com/sajibsaifullah/html-5-intro
