@@ -2,18 +2,18 @@
 
 ## Milestone 1: HTML, CSS and Github as a beginner
 #### Module-1: Learn and Explore HTML: https://github.com/sajibsaifullah/first-website-
-#### Module-2: Getting startes with CSS: https://github.com/sajibsaifullah/Basic-css
+#### Module-2: Getting starts with CSS: https://github.com/sajibsaifullah/Basic-css
 #### Module-3: Git, source control, Github:
 #### Module-4: More HTML & More CSS: https://github.com/sajibsaifullah/html-5-intro
 #### Module-5: Build a portfolio website: https://github.com/sajibsaifullah/devoloper-portfolio
 #### module-5.5: Donate Practice: https://github.com/sajibsaifullah/donate-practice
 #### Module-6: Assignment-1: https://github.com/sajibsaifullah/think-box-assignment-1
 #### Module-6.5: Pseudo class & position: https://github.com/sajibsaifullah/pseudo-box
-### Conceptuals:
-#### Conquire your git fare: https://github.com/sajibsaifullah/conquire-your-git-fear
+### Conceptual:
+#### Conquer your git fare: https://github.com/sajibsaifullah/conquire-your-git-fear
 #### digital agency: https://github.com/sajibsaifullah/digital-agency
 
-## Milestone 2: Reasponsive Web Layout
+## Milestone 2: Responsive Web Layout
 #### Module-7: Optimize images, icon, CSS3 Animation: https://github.com/sajibsaifullah/more-css-and-animation
 #### Module-8: Responsive CSS Layout: https://github.com/sajibsaifullah/responsive-examples
 #### Module-9: More Responsive Layout, Responsive Portfolio: https://github.com/sajibsaifullah/responsive-portfolio
@@ -21,8 +21,8 @@
 #### Module-10.5: Practice:
 #### Module-11: Assignment-2: https://github.com/sajibsaifullah/g3-architects-assignment-2
 #### Module-11.5: UI-UX, future strategy about HTML, CSS
-## Conceptuals:
-#### Explore Grid and Flexbox: https://github.com/complete-web-development-ph/Explore-Grid-and-Flexbox-B7
+## Conceptual:
+#### Explore Grid and Flex-box: https://github.com/complete-web-development-ph/Explore-Grid-and-Flexbox-B7
 #### Learn Responsive Design by Mastering Media Query: https://github.com/complete-web-development-ph/Learn-Responsive-Design-by-Mastering-Media-Query
 
 ## Milestone 3: CSS Frameworks
@@ -35,9 +35,9 @@
 #### Module-15.5: Practice: 
 #### Module-16: Assignment-3: https://github.com/sajibsaifullah/legal-house-assignment-3
 #### Module-16.5: Explore SCSS:
-## Conceptuals:
+## Conceptual:
 #### Build a Landing Page Using Bootstrap: https://github.com/complete-web-development-ph/Build-a-Landing-Page-Using-Bootstrap-B7?fbclid=IwAR3n78Rgs_6DUKQkS83Do5RIWr5U8f2yYNWmyMyJUT8ZiiYoo1-rMmqZRGU
-#### Learn Talwind By Building A Project: https://github.com/complete-web-development-ph/Learn-Talwind-By-Building-A-Project
+#### Learn Tailwind By Building A Project: https://github.com/complete-web-development-ph/Learn-Talwind-By-Building-A-Project
 
 ## Milestone 4: Hello JavaScript
 #### Module-17: Introduction To JavaScript: https://github.com/sajibsaifullah/introduction-to-javascript 
@@ -53,7 +53,7 @@
 #### Module-23.6: Extra JavaScript Practice: https://github.com/sajibsaifullah/js-practice-before-assignment 
 #### Module-24: Assignment-4: https://github.com/sajibsaifullah/assignment-4 
 #### Module-24.5: Basic JS bonus: https://github.com/sajibsaifullah/simple-js-core-concept-bonus 
-## Conceptuals:
+## Conceptual:
 #### Basic JavaScript Recap: https://github.com/gias-uddin-swe/Basic-JavaScript-Recap
 #### Javascript Function Object and Problem Solving: https://github.com/complete-web-development-ph/Javascript-Function-Object-and-Problem-Solving
 #### Problem solving with JS: https://github.com/ShahbajKhan/batch-7-problem--solving-with-js
@@ -62,14 +62,14 @@
 #### Module-25: Tour of DOM: https://github.com/sajibsaifullah/tour-of-dom
 #### Module-26: Event, addEventListener, Event Bubble: https://github.com/sajibsaifullah/js-dom-events
 #### Module-26.5: Practice: 
-#### Module-27: Simple intereactive bank website (baap-er-bank): https://github.com/sajibsaifullah/baap-er-bank
+#### Module-27: Simple interactive bank website (baap-er-bank): https://github.com/sajibsaifullah/baap-er-bank
 #### Module-28: Bank Calculation Using Functions: https://github.com/sajibsaifullah/functional-baap-er-bank
 #### Module-28.5: Practice:
 #### Module-29: Shopping Cart: https://github.com/sajibsaifullah/shopping-cart-solution
 #### Module-29: Pin Matcher: https://github.com/sajibsaifullah/pin-matcher-solution
-#### Module-30: Assingment-5: https://github.com/sajibsaifullah/geometry-genius-assignment-5
+#### Module-30: Assignment-5: https://github.com/sajibsaifullah/geometry-genius-assignment-5
 #### Module-30.5: Integrate JS Bonus content: https://github.com/sajibsaifullah/dom-recap
-## Conceptuals:
+## Conceptual:
 #### Play with DOM: https://github.com/rokib97/play-with-dom-b7
 #### Understanding DOM: https://github.com/gias-uddin-swe/valentaine-buddget-test
 #### Shopping cart using js DOM: https://github.com/sajibsaifullah/shoping-js-dom-conceptual
@@ -87,7 +87,7 @@
 #### Module-37.5: practice:
 #### Module-38: Assignment-6: https://github.com/sajibsaifullah/AI-universe-hub-assignment-6
 #### Module-38.5: Bonus Api & JS concepts recap: https://github.com/sajibsaifullah/temperature-hot-bonus-module-6
-## Conceptuals:
+## Conceptual:
 #### JavaScript ES6 Methods=: https://github.com/sajibsaifullah/conceptual-es6
 #### Explore ES6 & API Project: https://github.com/sajibsaifullah/explore-api-and-apply-es6-conceptual
 #### Fetch & display data: https://github.com/ShahbajKhan/news-portal
@@ -103,7 +103,7 @@
 #### Module-44.5: DevTool & Debug practice: 
 #### Module-45: assignment-7: https://github.com/sajibsaifullah/assignment-7
 #### Module-45.5: Debug bonus: https://github.com/ProgrammingHero1/fancy-slider
-## Conceptuals:
+## Conceptual:
 #### How to debug & fix error; https://github.com/moniruzzaman01/JS-Error-and-Debug
 #### Debug project: https://github.com/probirghosh45/bug-fixing-ph-session
 #### Debug Project: https://github.com/sagar-biswas1/debug-universe
@@ -112,12 +112,13 @@
 
 ## Milestone 8: Simple React
 ### React Note: https://github.com/Rakib011110/JavaScript-Using-Method-And-Examples
-#### Module-46: Modern Fron-end core concepts: https://github.com/sajibsaifullah/rest-countries-recap
+#### Module-46: Modern Front-end core concepts: https://github.com/sajibsaifullah/rest-countries-recap
 #### Module-47: React core concepts, JSX, props, state: https://github.com/sajibsaifullah/reactjs-core-concepts
 #### Module-47: https://github.com/sajibsaifullah/reactjs-core-concepts2
 #### Module-48: Simple react rest countries: https://github.com/sajibsaifullah/react-rest-countries
 #### Module-48.5: recap: https://github.com/ProgrammingHero1/reactjs-core-concepts-recap
 #### Module-49: How react works & react project with vite: https://github.com/sajibsaifullah/understand-react-core-concepts
 #### Module-49.5: Modules & data Storage integration: https://github.com/sajibsaifullah/react-storage-and-handler
-## Conceptuals:
+#### Module-50: SimpleReact SPA with simple e-commerce: https://github.com/sajibsaifullah/ema-john-simple
+## Conceptual:
 #### React core concept: https://github.com/rokib97/react-core-concept
