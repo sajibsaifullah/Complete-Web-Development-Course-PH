@@ -120,5 +120,6 @@
 #### Module-49: How react works & react project with vite: https://github.com/sajibsaifullah/understand-react-core-concepts
 #### Module-49.5: Modules & data Storage integration: https://github.com/sajibsaifullah/react-storage-and-handler
 #### Module-50: SimpleReact SPA with simple e-commerce: https://github.com/sajibsaifullah/ema-john-simple
+#### Module-51: Cart calculation, save & retrieve cart: update 50
 ## Conceptual:
 #### React core concept: https://github.com/rokib97/react-core-concept
