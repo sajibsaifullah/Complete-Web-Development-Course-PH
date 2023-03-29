@@ -65,3 +65,4 @@
 #### Module-51: Cart calculation, save & retrieve cart: update 50
 ## Conceptual:
 #### React core concept: https://github.com/rokib97/react-core-concept
+#### React SPA with local storage: https://github.com/sajibsaifullah/SPA-with-localstorage-solution
