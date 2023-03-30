@@ -10,7 +10,7 @@
 #### Module-6: Assignment-1: https://github.com/sajibsaifullah/think-box-assignment-1
 #### Module-6.5: Pseudo class & position: https://github.com/sajibsaifullah/pseudo-box
 ### Conceptual:
-#### Conquer your git fare: https://github.com/sajibsaifullah/conquire-your-git-fear
+#### Conquer your git fear: https://github.com/sajibsaifullah/conquire-your-git-fear
 #### digital agency: https://github.com/sajibsaifullah/digital-agency
 
 ## Milestone 2: Responsive Web Layout
