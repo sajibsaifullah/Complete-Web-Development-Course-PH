@@ -123,3 +123,9 @@
 #### Module-51: Cart calculation, save & retrieve cart: update 50
 ## Conceptual:
 #### React core concept: https://github.com/rokib97/react-core-concept
+#### React SPA with local storage: https://github.com/sajibsaifullah/SPA-with-localstorage-solution
+
+## Milestone 9: React Router & States
+#### Module-53: Bootstrap, Tailwind CSS, Axios, Rechart: https://github.com/sajibsaifullah/react-with-bootstrap
+#### Module-53: Bootstrap, Tailwind CSS, Axios, Rechart: https://github.com/sajibsaifullah/price-list-cards
+#### Module-54: Simple React Router Examples: https://github.com/sajibsaifullah/intro-to-react-router
