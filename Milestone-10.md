@@ -4,9 +4,10 @@
 #### Module-59.5: Firebase recap & Practice:
 #### Module-60: React Auth Integration & Private Route: https://github.com/sajibsaifullah/auth-firebase-context-tailwind-60
 #### Module-61: Private Route Recap with Ema-John: https://github.com/sajibsaifullah/ema-john-with-firebase-auth-61
-#### Module-62: Recap with a Responsive React Website:
+#### Module-62: Recap with a Responsive React Website (client): https://github.com/sajibsaifullah/the-news-dragon-client
+#### Module-62: Recap with a Responsive React Website (server): https://github.com/sajibsaifullah/the-news-dragon-server
 #### Module-62.5: Firebase Auth & Private Route Recap:
-#### Module-63: Firebase Auth recap & Data Load:
+#### Module-63: Firebase Auth recap & Data Load: (m-62)
 #### Module-64: Build a Authentication System for Genius Car:
 #### Module-64.5: Firebase Auth & Simple site Practice: 
 #### Module-65: Assignment-10:
