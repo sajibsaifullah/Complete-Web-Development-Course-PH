@@ -15,5 +15,5 @@
 
 ## Conceptual:
 #### Firebase Auth simple: https://github.com/gias-uddin-swe/simple-firebase-b7
-#### 
+#### Firebase Auth : https://github.com/Abdify/authentication-with-firebase-b7
 ####
