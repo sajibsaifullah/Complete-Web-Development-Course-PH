@@ -16,4 +16,6 @@
 ## Conceptual:
 #### Firebase Auth simple: https://github.com/gias-uddin-swe/simple-firebase-b7
 #### Firebase Auth : https://github.com/Abdify/authentication-with-firebase-b7
-####
+#### Login Page With server : https://github.com/sajibsaifullah/login-page-auth-with-server
+
+### React Folder Structure: https://github.com/sajibsaifullah/react-folder-structure
