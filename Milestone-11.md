@@ -3,7 +3,8 @@
 #### Module-66: Getting Started with node, Express & api (server): https://github.com/sajibsaifullah/users-management-server
 #### Module-67: Know more about node js, express js, mongodb and CRUD (client): https://github.com/sajibsaifullah/simple-crud-client
 #### Module-67: Know more about node js, express js, mongodb and CRUD (server): https://github.com/sajibsaifullah/simple-crud-server
-#### Module-68: 
+#### Module-68: CRUD with Espresso Emporium MongoDB (client): https://github.com/sajibsaifullah/coffee-store-client
+#### Module-68: CRUD with Espresso Emporium MongoDB (server): https://github.com/sajibsaifullah/coffee-store-server
 #### Module-68.5: 
 #### Module-69: 
 #### Module-70: 
