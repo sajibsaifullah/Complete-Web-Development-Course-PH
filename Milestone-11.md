@@ -7,7 +7,8 @@
 #### Module-68: CRUD with Espresso Emporium MongoDB (server): https://github.com/sajibsaifullah/coffee-store-server
 #### Module-68.5: 
 #### Module-69: Mongodb database integration with CRUD (client): https://github.com/sajibsaifullah/car-doctor-client 
-#### Module-70: 
+#### Module-70: Mongodb database integration with CRUD (server): https://github.com/sajibsaifullah/car-doctor-server
+#### Module-70: update-69
 #### Module-70.5: 
 #### Module-71: 
 #### Module-72: 
