@@ -16,6 +16,8 @@
 #### Module-73:  
 
 ## Conceptual:
-#### 
-#### 
+#### con-1. client: https://github.com/gias-uddin-swe/CRUD-service-clinet
+#### con-1. server: https://github.com/gias-uddin-swe/crud-service-server 
+#### con-2. client: https://github.com/sagar-biswas1/book-manager/tree/main
+#### con-2. server: https://github.com/sagar-biswas1/book-server
 #### 
