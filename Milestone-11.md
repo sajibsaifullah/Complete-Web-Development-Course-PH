@@ -10,12 +10,10 @@
 #### Module-70: Mongodb database integration with CRUD (server): https://github.com/sajibsaifullah/car-doctor-server
 #### Module-70: update-69
 #### Module-70.5: 
-#### Module-71: 
-#### Module-72: 
-#### Module-73: 
-#### Module-73.5:
-#### Module-74: 
-#### Module-75: 
+#### Module-71: JWT: update-69
+#### Module-72: ema-john-client: https://github.com/sajibsaifullah/ema-john-simple-client
+#### Module-72: ema-john-server: https://github.com/sajibsaifullah/ema-john-server
+#### Module-73:  
 
 ## Conceptual:
 #### 
