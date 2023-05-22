@@ -13,7 +13,9 @@
 #### Module-71: JWT: update-69
 #### Module-72: ema-john-client: https://github.com/sajibsaifullah/ema-john-simple-client
 #### Module-72: ema-john-server: https://github.com/sajibsaifullah/ema-john-server
-#### Module-73:  
+#### Module-73: 
+#### Module-73.5: Bonus(client) : https://github.com/sajibsaifullah/car-doctor-client-search-sort-73.5
+#### Module-73.5: Bonus(server) : https://github.com/sajibsaifullah/car-doctor-server-search-sort-73.5
 
 ## Conceptual:
 #### con-1. client: https://github.com/gias-uddin-swe/CRUD-service-clinet
