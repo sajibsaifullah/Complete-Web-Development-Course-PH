@@ -12,8 +12,8 @@
 #### Module-78.5: 
 #### Module-79: client: https://github.com/sajibsaifullah/bistro-boss-client-with-image-upload-79
 #### Module-79: server: https://github.com/sajibsaifullah/bistro-boss-server-with-image-upload-79
-#### Module-80: client:
-#### Module-80: server:
+#### Module-80: client: https://github.com/sajibsaifullah/bistro-boss-client-with-payment-80
+#### Module-80: server: https://github.com/sajibsaifullah/bistro-boss-sever-with-payment-80
 #### Module-81: client:
 #### Module-81: server:
 #### Module-81.5: 
