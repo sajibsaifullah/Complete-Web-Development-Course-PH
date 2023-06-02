@@ -10,8 +10,8 @@
 #### Module-78: client: https://github.com/sajibsaifullah/bistro-boss-client-with-admin-jwt-78
 #### Module-78: server: https://github.com/sajibsaifullah/bistro-boss-server-with-admin-jwt-78
 #### Module-78.5: 
-#### Module-79: client:
-#### Module-79: server:
+#### Module-79: client: https://github.com/sajibsaifullah/bistro-boss-client-with-image-upload-79
+#### Module-79: server: https://github.com/sajibsaifullah/bistro-boss-server-with-image-upload-79
 #### Module-80: client:
 #### Module-80: server:
 #### Module-81: client:
@@ -21,10 +21,8 @@
 #### Module-82.5: 
 
 ## Conceptual:
-#### con-1. client: 
-#### con-1. server: 
-#### con-2. client: 
-#### con-2. server: 
-#### con-3. client: 
-#### con-3. server: 
-#### 
+#### Resources: https://github.com/shakilahmedatik/aircnc-resources
+#### con. starter: https://github.com/shakilahmedatik/aircnc-part1-starter 
+#### part-1. complete: https://github.com/shakilahmedatik/aircnc-part1-complete
+#### part-2. complete: https://github.com/shakilahmedatik/aircnc-part2-complete
+#### part-3. complete: 
