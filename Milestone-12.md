@@ -14,8 +14,8 @@
 #### Module-79: server: https://github.com/sajibsaifullah/bistro-boss-server-with-image-upload-79
 #### Module-80: client: https://github.com/sajibsaifullah/bistro-boss-client-with-payment-80
 #### Module-80: server: https://github.com/sajibsaifullah/bistro-boss-sever-with-payment-80
-#### Module-81: client:
-#### Module-81: server:
+#### Module-81: client: https://github.com/sajibsaifullah/bistro-boss-client-with-admin-home-81
+#### Module-81: server: https://github.com/sajibsaifullah/bistro-boss-server-with-admin-home-81
 #### Module-81.5: 
 #### Module-82: Assignment-12:
 #### Module-82.5: 
@@ -25,4 +25,6 @@
 #### con. starter: https://github.com/shakilahmedatik/aircnc-part1-starter 
 #### part-1. complete: https://github.com/shakilahmedatik/aircnc-part1-complete
 #### part-2. complete: https://github.com/shakilahmedatik/aircnc-part2-complete
-#### part-3. complete: 
+#### part-3. complete: https://github.com/shakilahmedatik/aircnc-part3-complete
+#### Special: JWT-Axios-TanstackQuery (client): https://github.com/ShahbajKhan/jwt-session-client
+#### Special: JWT-Axios-TanstackQuery (server): https://github.com/ShahbajKhan/jwt-session-server
