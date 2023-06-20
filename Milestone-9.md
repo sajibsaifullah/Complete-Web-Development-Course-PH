@@ -6,7 +6,7 @@
 #### Module-55: Ema-john with router and custom hook: https://github.com/sajibsaifullah/ema-john-simple-55
 #### Module-56: Router deploy, Simple Context API, devtool: https://github.com/sajibsaifullah/banglar-tshirt
 #### Module-56.5:
-#### Module-57: assignment-9: https://github.com/sajibsaifullah/assignment-9
+#### Module-57: career-hub-assignment: https://github.com/sajibsaifullah/career-hub-assignment
 #### Module-57.5: Bonus (about ExpressJS): https://github.com/sajibsaifullah/bonus-m-9 
 
 ## Conceptual:
