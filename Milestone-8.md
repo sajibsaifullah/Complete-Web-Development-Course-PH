@@ -9,7 +9,7 @@
 #### Module-49.5: Modules & data Storage integration: https://github.com/sajibsaifullah/react-storage-and-handler
 #### Module-50: SimpleReact SPA with simple e-commerce: https://github.com/sajibsaifullah/ema-john-simple
 #### Module-51: Cart calculation, save & retrieve cart: update 50
-#### Module-52: Assignment: https://github.com/sajibsaifullah/knowledge-cafe-assignment-8
+#### Module-52: knowledge-cafe-assignment: https://github.com/sajibsaifullah/knowledge-cafe-assignment
 
 ## Conceptual:
 #### React core concept: https://github.com/rokib97/react-core-concept
