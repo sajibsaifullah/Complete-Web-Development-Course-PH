@@ -17,9 +17,8 @@
 #### Module-81: client: https://github.com/sajibsaifullah/bistro-boss-client-with-admin-home-81
 #### Module-81: server: https://github.com/sajibsaifullah/bistro-boss-server-with-admin-home-81
 #### Module-81.5:
-### Assignment-12 
-#### Module-82: summer-camp-school-server: https://github.com/sajibsaifullah/summer-camp-school-server
-#### Module-82: summer-camp-school-client: https://github.com/sajibsaifullah/summer-camp-school-client
+#### Module-82: (Assignment) summer-camp-school-server: https://github.com/sajibsaifullah/summer-camp-school-server
+#### Module-82: (Assignment) summer-camp-school-client: https://github.com/sajibsaifullah/summer-camp-school-client
 #### Module-82.5: 
 
 ## Conceptual:

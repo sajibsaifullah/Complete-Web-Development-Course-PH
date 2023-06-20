@@ -10,9 +10,8 @@
 #### Module-63: Firebase Auth recap & Data Load: (m-62)
 #### Module-64: Build a Authentication System for Genius Car:
 #### Module-64.5: Firebase Auth & Simple site Practice: 
-### Assignment-10
-#### Module-65: chef-recipe-hunter-server: https://github.com/sajibsaifullah/chef-recipe-hunter-server
-#### Module-65: chef-recipe-hunter-client: https://github.com/sajibsaifullah/chef-recipe-hunter-client
+#### Module-65: (Assignment) chef-recipe-hunter-server: https://github.com/sajibsaifullah/chef-recipe-hunter-server
+#### Module-65: (Assignment) chef-recipe-hunter-client: https://github.com/sajibsaifullah/chef-recipe-hunter-client
 #### Module-65.5: Bonus: Dynamic title & Google Map:
 
 ## Conceptual:

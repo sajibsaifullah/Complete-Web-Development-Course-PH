@@ -6,8 +6,7 @@
 #### Module-14: PH: https://github.com/ProgrammingHero1/bikerz-zone
 #### Module-15: A simple introduce  to Tailwind (PH): https://github.com/ProgrammingHero1/explore-tailwind
 #### Module-15.5: Practice: 
-### Assignment-3
-#### Module-16: Legal House: https://github.com/sajibsaifullah/b7-legal-house
+#### Module-16: Legal-House-Assignment : https://github.com/sajibsaifullah/b7-legal-house
 #### Module-16.5: Explore SCSS:
 
 ## Conceptual:
