@@ -9,7 +9,8 @@
 #### Module-36: Mastering in JS objects: https://github.com/sajibsaifullah/explore-js-objects
 #### Module-37: Understand Common JS Concepts: https://github.com/sajibsaifullah/common-js-concept
 #### Module-37.5: practice:
-#### Module-38: Assignment-6: https://github.com/sajibsaifullah/AI-universe-hub-assignment-6
+### Assignment-6
+#### Module-38: AI-universe-hub-assignment: https://github.com/sajibsaifullah/AI-universe-hub-assignment
 #### Module-38.5: Bonus Api & JS concepts recap: https://github.com/sajibsaifullah/temperature-hot-bonus-module-6
 
 ## Conceptual:
