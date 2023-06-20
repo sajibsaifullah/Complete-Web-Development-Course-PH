@@ -7,7 +7,8 @@
 #### Module-43: Dev tool & debug practice: https://github.com/sajibsaifullah/js-error-debugging/tree/main/shohor-insta
 #### Module-44: JavaScript You Need To Know for React: https://github.com/sajibsaifullah/js-consepts-for-react
 #### Module-44.5: DevTool & Debug practice: 
-#### Module-45: assignment-7: https://github.com/sajibsaifullah/assignment-7
+### assignment-7:
+#### Module-45: b7a7-quiz-hero: https://github.com/sajibsaifullah/b7a7-quiz-hero-sajibsaifullah
 #### Module-45.5: Debug bonus: https://github.com/ProgrammingHero1/fancy-slider
 
 ## Conceptual:
