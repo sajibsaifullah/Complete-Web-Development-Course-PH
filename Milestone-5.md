@@ -7,7 +7,8 @@
 #### Module-28.5: Practice:
 #### Module-29: Shopping Cart: https://github.com/sajibsaifullah/shopping-cart-solution
 #### Module-29: Pin Matcher: https://github.com/sajibsaifullah/pin-matcher-solution
-#### Module-30: Assignment-5: https://github.com/sajibsaifullah/geometry-genius-assignment-5
+### Assignment-5
+#### Module-30: geometry-genius-assignment: https://github.com/sajibsaifullah/geometry-genius-assignment
 #### Module-30.5: Integrate JS Bonus content: https://github.com/sajibsaifullah/dom-recap
 
 ## Conceptual:
